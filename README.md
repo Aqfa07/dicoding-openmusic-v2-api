@@ -1,4 +1,4 @@
-# OpenMusic API v2a
+# OpenMusic API v2
 
 ## Deskripsi
 OpenMusic API v2 adalah pengembangan dari OpenMusic API v1 dengan penambahan fitur playlist dan autentikasi. API ini memungkinkan pengguna untuk mengelola musik, playlist, dan berkolaborasi dengan pengguna lain.
